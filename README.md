@@ -1,5 +1,6 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
+
 <img src="https://img.shields.io/badge/Current%20Day-01-or?style=for-the-badge" />
 
 ## Day 1
