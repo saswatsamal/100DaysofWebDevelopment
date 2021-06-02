@@ -1,7 +1,7 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
 
-<img src="https://img.shields.io/badge/Current%20Day-03-or?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Day-04-or?style=for-the-badge" />
 
 ## Day 1
 - I've started the **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
@@ -18,4 +18,10 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 - I've started the Applied Visual Design from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design#applied-visual-design)
 
 ![image](https://user-images.githubusercontent.com/39031660/120368278-80664f80-c32f-11eb-8b1d-404a4602524f.png)
+
+## Day 4
+- Started the book **"Web Coding & Development"** where I got a basic idea about the Backend using PHP and MySQL, web apps, and more.
+
+![image](https://user-images.githubusercontent.com/39031660/120531697-8aa24f80-c3fc-11eb-8fe4-fdb780e20617.png)
+
 
