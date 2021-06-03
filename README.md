@@ -25,6 +25,6 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 ![image](https://user-images.githubusercontent.com/39031660/120531697-8aa24f80-c3fc-11eb-8fe4-fdb780e20617.png)
 
 ## Day 5
-- Didn't do much, read the book and worked on some project.
+- Didn't do much, read the book and worked on some project....
 
 
