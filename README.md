@@ -1,7 +1,7 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
 
-<img src="https://img.shields.io/badge/Current%20Day-08-or?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Day-09-or?style=for-the-badge" />
 
 ## Day 1
 - I've started the **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
@@ -43,3 +43,6 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 ![image](https://user-images.githubusercontent.com/39031660/120934185-ef221f00-c71a-11eb-833d-71699c8849db.png)
 
 - Started reading JavaScript
+
+## Day 9
+- Nothing much today, still continued with JS
