@@ -1,7 +1,7 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
 
-<img src="https://img.shields.io/badge/Current%20Day-10-or?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Day-11-or?style=for-the-badge" />
 
 ## Day 1
 - I've started the **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
@@ -50,3 +50,8 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 ## Day 10
 - Started the Applied Accessibility from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
 ![image](https://user-images.githubusercontent.com/39031660/121288190-97450d00-c900-11eb-8360-86d9fbefaf54.png)
+
+# Day 11
+- Completed the Applied Accessibility from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility)
+![image](https://user-images.githubusercontent.com/39031660/121408363-f8f78c80-c97d-11eb-8d59-293e025d8f8e.png)
+
