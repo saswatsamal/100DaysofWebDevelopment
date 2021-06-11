@@ -1,7 +1,7 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
 
-<img src="https://img.shields.io/badge/Current%20Day-12-or?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Day-13-or?style=for-the-badge" />
 
 ## Day 1
 - I've started the **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
@@ -58,3 +58,8 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 ## Day 12
 - Completed the Responsive Web Design Principles from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design#responsive-web-design-principles)
 ![image](https://user-images.githubusercontent.com/39031660/121564237-dd04f100-ca38-11eb-988a-d7190141402b.png)
+
+## Day 13
+- Completed the CSS Flex from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design#css-flexbox)
+![image](https://user-images.githubusercontent.com/39031660/121724845-15263580-cb06-11eb-84b0-62a53ca5025a.png)
+
