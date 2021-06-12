@@ -63,3 +63,6 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 - Completed the CSS Flex from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design#css-flexbox)
 ![image](https://user-images.githubusercontent.com/39031660/121724845-15263580-cb06-11eb-84b0-62a53ca5025a.png)
 
+## Day 14
+- Completed the CSS Grid from freecodecamp
+- Completed the course also.
