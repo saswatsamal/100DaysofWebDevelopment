@@ -75,3 +75,9 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 
 ## Day 17
 - Completed the next 3 chapters of Javascript.
+|
+|
+|
+
+## Day 20
+- After a long gap, I've completed the basics of JS. Now, I'll make some projects aterwards.
