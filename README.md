@@ -1,7 +1,7 @@
 # 100 Days of Web Development
 I'll be challenging myself for continuous 100 Days of Web Development.
 
-<img src="https://img.shields.io/badge/Current%20Day-17-or?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Current%20Day-25-or?style=for-the-badge" />
 
 ## Day 1
 - I've started the **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/).
@@ -75,9 +75,20 @@ I'll be challenging myself for continuous 100 Days of Web Development.
 
 ## Day 17
 - Completed the next 3 chapters of Javascript.
+
+
 |
 |
 |
 
 ## Day 20
 - After a long gap, I've completed the basics of JS. Now, I'll make some projects aterwards.
+
+
+|
+|
+|
+|
+
+## Day 25
+- Today I completed the DS in Javascript and made some little projects. I'll list out later.
